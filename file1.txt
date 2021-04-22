@@ -1,1 +1,5 @@
 B22 Learning Git
+
+We made first commit
+Commit is almost list taking a pic of the changes at certain moment.
+It contains the changes you made and the author of the changes.s
